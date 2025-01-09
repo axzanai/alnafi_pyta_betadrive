@@ -17,5 +17,5 @@
 
 ## Jupyter Notebook
 ...> pip install notebook
-...> juypter lab <!-- Open Jupyter Lab in the Browser -->
+...> jupyter lab <!-- Open Jupyter Lab in the Browser -->
 

@@ -1,0 +1,22 @@
+# Ignore folder (Virtualenv + Jupyter Notebook Checkpoint Files)
+pyta/
+.ipynb_checkpoints
+
+# Ignore Python Files
+__pycache__/
+*.pyc
+*pyo
+
+# Ignore All Files of a specific Type
+*.log
+*.cfg
+*.TAG
+
+# Ignore IDE/Editor Files
+.vscode
+# .gitignore
+
+# Temporary Files
+*.tmp
+*.swp
+*.bak
