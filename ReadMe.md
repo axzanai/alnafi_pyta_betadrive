@@ -6,6 +6,10 @@
 ...> pip install virtualenv
 ...> virtualenv env_name
 
+## Anaconda Promp(miniconda)
+...> conda env list
+...> cd pyta\Script\activate<!-- Environment Activated -->
+
 ## Initializing Git Version Control System
 ...> git init
 ...> echo >.gitignore <!-- Creation of Gitignore File -->
