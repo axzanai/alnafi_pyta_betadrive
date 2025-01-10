@@ -24,5 +24,5 @@
 ...> jupyter lab <!-- Open Jupyter Lab in the Browser -->
 
 ## Add Images via Link (Markdown Spaces)
-...> ![Operators](img/operators.png)
+...> ![Operators](img/builtin_ftn.png)
 
