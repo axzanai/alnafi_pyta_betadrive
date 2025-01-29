@@ -26,3 +26,5 @@
 ## Add Images via Link (Markdown Spaces)
 ...> ![Operators](img/builtin_ftn.png)
 
+## Jupyter Notebook Sharing
+...> nbviewer <!-- Jupyter Noterbook Viewer -->
