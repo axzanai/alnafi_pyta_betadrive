@@ -28,3 +28,6 @@
 
 ## Jupyter Notebook Sharing
 ...> nbviewer <!-- Jupyter Noterbook Viewer -->
+
+## Learning Resource
+...> deepseek
