@@ -1,5 +1,6 @@
 # Ignore folder (Virtualenv + Jupyter Notebook Checkpoint Files)
 pyta/
+spyder/
 .ipynb_checkpoints
 
 # Ignore Python Files
